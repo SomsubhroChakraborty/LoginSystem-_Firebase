@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 120px;
+    border: 2px solid black;
+    width: 430px;
+    margin-left: 483px;
+    height: 350px;
+}
+input{
+    width:250px;
+    padding:12px;
+    margin:6px;
+    border-radius: 100px;
+}
+button{
+    margin:4px;
+    border-radius: 20px;
+    background-color: blue;
+    color:white;
+    width:150px;
+    padding:12px;
+}
